@@ -1,0 +1,28 @@
+# Arquivo de Configuração do Mod "Fear Me Not"
+# Este arquivo contém as configurações do mod.
+# As opções podem ser ajustadas de acordo com sua preferência.
+# Se você não souber o que fazer, use os valores padrão.
+
+# Ativar ou desativar o mod
+[general]
+# Define se o mod está ativado ou desativado.
+# Quando definido como "false", o mod não será carregado.
+modEnabled = true
+
+# Configurações de velocidade
+[settings]
+# Velocidade quando o jogador está próximo do inimigo.
+# Ajuste o valor para determinar quão rápido o jogador se move quando o inimigo está próximo.
+nearSpeed = 5
+
+# Velocidade quando o jogador está longe do inimigo.
+# Ajuste o valor para determinar quão rápido o jogador se move quando o inimigo está longe.
+farSpeed = 1.0
+
+# Distância de evitação
+# Distância mínima a partir da qual o jogador deve começar a se afastar de um inimigo.
+avoidDistance = 15.0
+
+# Distância de agachar
+# Distância a partir da qual o jogador deve começar a agachar-se para evitar detecção.
+crouchDistance = 3

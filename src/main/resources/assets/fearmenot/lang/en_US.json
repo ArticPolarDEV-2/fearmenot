@@ -1,0 +1,11 @@
+{
+  "cmd.add.fail": "%s is already among the Feared Ones!",
+  "cmd.add.success": "%s is now among the Feared Ones!",
+  "cmd.remove.fail": "%s is not among the Feared Ones!",
+  "cmd.remove.success": "%s is no longer among the Feared Ones!",
+  "cmd.enable": "Mod enabled. Feared Ones are safe!",
+  "cmd.disable": "Mod disabled. Feared Ones! Beware!",
+  "cmd.reload": "Fear Me! configs reloaded.",
+  "cmd.list": "If you're a monster, you should fear the following players:",
+  "cmd.list.empty": "The list is empty."
+}
